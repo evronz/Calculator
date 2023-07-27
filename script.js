@@ -15,7 +15,7 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-  return a / b;
+  return a / b;sdsdsds
 }
 
 const buttons = document.querySelectorAll('.btn');
